@@ -1,1 +1,0 @@
-Passive components such as resistors and Capacitors except for the potentiometer are all 0603 sized
