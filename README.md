@@ -16,3 +16,4 @@ The CR-6 SE hot end circuit board community edition is a reverse engineered circ
    * How to install the circuit board;
    * How to test and calibrate the circuit board.
  
+ Make sure to read the manual first.
