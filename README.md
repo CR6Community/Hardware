@@ -22,4 +22,4 @@ The CR-6 SE hot end circuit board community edition is a reverse engineered circ
 
 This design removes the strain gauge levelling method and implements the 3-pin and 2-pin connectors to connect a BLTOUCH probe. It also has an optional 12VDC/1A buck converter in case 12VDC fans are used. The Fan Voltage (V_FAN) can be selecting by placing a jumper on the V_FAN selection header connecting either 24VDC and V_FAN or 12VDC and V_FAN.
 
-Please note that a changed Marlin version needs to be flashed on the motherboard where the functions of the PROBE_TARE_PIN should change to a PWM output for the BLTOUCH servo and the Z_STOP_PIN pin should be customized for BLTOUCH ZMIN.
+Please note that an other version of Marlin than available in this Github needs to be flashed on the motherboard where the functions of the PROBE_TARE_PIN should change to a PWM output for the BLTOUCH servo and the Z_STOP_PIN pin should be customized for BLTOUCH ZMIN.
